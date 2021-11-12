@@ -1,0 +1,22 @@
+{
+  "name": "tennessee-bank",
+  "version": "1.0.0",
+  "description": "a bank for the free people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanroses/tennessee-bank.git"
+  },
+  "author": "rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanroses/tennessee-bank/issues"
+  },
+  "homepage": "https://github.com/nathanroses/tennessee-bank#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
